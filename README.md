@@ -11,3 +11,10 @@ git status
 git add -A
 git commit -m ""
 ```
+
+* then
+```
+git pull origin master
+git push origin master
+```
+
